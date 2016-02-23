@@ -1,0 +1,253 @@
+[
+  {
+    "title": "How not to reinvent the wheel (Game dev)",
+    "speaker": "Michał Budzyński",
+    "videoURL": "https://www.youtube.com/watch?v=IOAR_DLR5C4&list=PLB422C495A0971BEE&index=3"
+  },
+
+  {
+    "title": "CSS4 - the future of CSS",
+    "speaker": "Andrzej Mazur",
+    "videoURL": "https://www.youtube.com/watch?v=JYUkDHOP5ps&index=2&list=PLB422C495A0971BEE"
+  },
+
+  {
+    "title": "The Web is Open. Let's keep it that way",
+    "speaker": "Marek Stępień",
+    "videoURL": "https://www.youtube.com/watch?v=cPwn25dmG5M&list=PLB422C495A0971BEE&index=1"
+  },
+
+  {
+    "title": "Make you web apps 'Go, Go' like Power rangers",
+    "speaker": "Karolina Szczur",
+    "videoURL": "https://www.youtube.com/watch?v=I80BLhj3-cE&list=PLB422C495A0971BEE&index=4"
+  },
+
+  {
+    "title": "Game design patterns",
+    "speaker": "Kamil Trebunia",
+    "videoURL": "https://www.youtube.com/watch?v=mzK5FRJn3A0&list=PLB422C495A0971BEE&index=5"
+  },
+
+  {
+    "title": "Team building and development practices",
+    "speaker": "Lukas Nowacki",
+    "videoURL": "https://www.youtube.com/watch?v=tQ2SBIOJtHY&index=6&list=PLB422C495A0971BEE"
+  },
+
+  {
+    "title": "Hello, Dart! - a brief introduction to Dart",
+    "speaker": "Rafał Kukawski",
+    "videoURL": "https://www.youtube.com/watch?v=YHKPbhqHMyY&index=7&list=PLB422C495A0971BEE"
+  },
+
+  {
+    "title": "Avoiding JavaScript Pitfalls Through Tree Hugging",
+    "speaker": "Zef Hemel",
+    "videoURL": "https://www.youtube.com/watch?v=wY3Ycpqa3KE&index=8&list=PLB422C495A0971BEE"
+  },
+
+  {
+    "title": "CSS 3D Transforms",
+    "speaker": "Bartek Szopka",
+    "videoURL": "https://www.youtube.com/watch?v=Fesodt_EP7c&index=9&list=PLB422C495A0971BEE"
+  },
+
+  {
+    "title": "HTML5 multimedia - browser-native video, audio and canvas",
+    "speaker": "Patrick H. Lauke",
+    "videoURL": "https://www.youtube.com/watch?v=X2lo_Mhfx1w&index=10&list=PLB422C495A0971BEE"
+  },
+
+  {
+    "title": "Save your data (Local storage)",
+    "speaker": "Paweł Maciejewski",
+    "videoURL": "https://www.youtube.com/watch?v=wOv_R5XyTgA&list=PLB422C495A0971BEE&index=11"
+  },
+
+  {
+    "title": "Practical guide to unit testing",
+    "speaker": "Krzysztof Szafranek",
+    "videoURL": "https://www.youtube.com/watch?v=ENMdou8NbYk&index=12&list=PLB422C495A0971BEE"
+  },
+
+  {
+    "title": "Asynchronous JavaScript",
+    "speaker": "Mariusz Nowak",
+    "videoURL": "https://www.youtube.com/watch?v=GuxKDuEjUn0&index=13&list=PLB422C495A0971BEE"
+  },
+
+  {
+    "title": "Why cross-platform mobile apps shouldn't look alike",
+    "speaker": "Tobiasz Glazar",
+    "videoURL": "https://www.youtube.com/watch?v=oAwEhtqWHtQ&list=PLB422C495A0971BEE&index=14"
+  },
+
+  {
+    "title": "Flatiron project",
+    "speaker": "Maciej Małecki",
+    "videoURL": "https://www.youtube.com/watch?v=BFT2clM5Dis&index=15&list=PLB422C495A0971BEE"
+  },
+
+  {
+    "title": "Write once - use twice (Back & Front)",
+    "speaker":"Aleksander Dąbrowski",
+    "videoURL": "https://www.youtube.com/watch?v=ie2euJlbXyA&index=16&list=PLB422C495A0971BEE"
+  },
+
+  {
+    "title": "Backbone.js in practice",
+    "speaker": "Lech Wilczyński",
+    "videoURL": "https://www.youtube.com/watch?v=kwwiWO31Iw8&list=PLB422C495A0971BEE&index=17"
+  },
+
+  {
+    "title": "The Angular Way",
+    "speaker": "Marcin Wosinek",
+    "videoURL": "https://vimeo.com/album/2668337/video/90452262"
+  },
+
+  {
+    "title": "Future of JavaScript: ECMAScript Harmony",
+    "speaker": "Michał Gołębiowski",
+    "videoURL": "https://vimeo.com/album/2668337/video/89926660"
+  },
+
+  {
+    "title": "Survival Guide - Web applications for mobile safari and iOS’s webUIView",
+    "speaker": "Łukasz Wójciak",
+    "videoURL": "https://vimeo.com/album/2668337/video/89923591"
+  },
+
+  {
+    "title": "Serious JavaScript - how to use techniques known from large Java and .NET projects in JS world",
+    "speaker": "Mateusz Jamiołkowski",
+    "videoURL": "https://vimeo.com/album/2668337/video/89920781"
+  },
+
+  {
+    "title": "Interactive web with Fabric.js",
+    "speaker": "Juriy Zaytsev",
+    "videoURL": "https://vimeo.com/album/2668337/video/89915501"
+  },
+
+  {
+    "title": "Pushing the web to the limits",
+    "speaker": "Dariusz Siedlecki",
+    "videoURL": "https://vimeo.com/album/2668337/video/89911301"
+  },
+
+  {
+    "title": "Abusing Firefox OS and HTML5 games for fun and profit",
+    "speaker": "Andrzej Mazur",
+    "videoURL": "https://vimeo.com/album/2668337/video/89906705"
+  },
+
+  {
+    "title": "Create your perfect architecture with modular JavaScript patterns",
+    "speaker": "Kasper Warguła",
+    "videoURL": "https://vimeo.com/album/2668337/video/89904340"
+  },
+
+  {
+    "title": "One day in the life of a front-end programmer",
+    "speaker": "Damian Wielgosik",
+    "videoURL": "https://vimeo.com/album/2668337/video/83298789"
+  },
+
+  {
+    "title": "AngularJS - Lessons Learned",
+    "speaker": "Karol Fabjańczuk",
+    "videoURL": "https://vimeo.com/album/3080670/video/114224016"
+  },
+
+  {
+    "title": "Let’s talk about front-end performance",
+    "speaker": "Jan Dudek",
+    "videoURL": "https://vimeo.com/album/3080670/video/114222532"
+  },
+
+  {
+    "title": "Be inspired. My story of becoming an indie game developer",
+    "speaker": "Krzysztof Jankowski",
+    "videoURL": "https://vimeo.com/album/3080670/video/113696913"
+  },
+
+  {
+    "title": "Boilerplate-B-Gone - do it yourself syntactic sugar with sweet.js",
+    "speaker": "Adam Pohorecki",
+    "videoURL": "https://vimeo.com/album/3080670/video/113694100"
+  },
+
+  {
+    "title": "Effective SVG icons management system",
+    "speaker": "Kamil Koterba",
+    "videoURL": "https://vimeo.com/album/3080670/video/113281142"
+  },
+
+  {
+    "title": "Gulp, as a better Grunt? Automate your frontend development workflow fully!",
+    "speaker": "Jacek Tomaszewski",
+    "videoURL": "https://vimeo.com/album/3080670/video/113278072"
+  },
+
+  {
+    "title": "Ampersand.js – Minimalistic approach to not so minimalistic problems",
+    "speaker": "Kamil Ogórek",
+    "videoURL": "https://vimeo.com/album/3080670/video/112621459"
+  },
+
+  {
+    "title": "Clientside localization in Firefox OS",
+    "speaker": "Staś Małolepszy",
+    "videoURL": "https://vimeo.com/album/3080670/video/112620422"
+  },
+
+  {
+    "title": "WebRTC - so much more than just video conferencing",
+    "speaker": "Szymon Nowak",
+    "videoURL": "https://vimeo.com/album/3080670/video/111287617"
+  },
+
+  {
+    "title": "Working with single-threaded event loop",
+    "speaker": "Maciej Winnicki",
+    "videoURL": "https://vimeo.com/album/3080670/video/111284724"
+  },
+
+  {
+    "title": "OOP is dead",
+    "speaker": "Damian Sosnowski",
+    "videoURL": "https://vimeo.com/album/3080670/video/110722635"
+  },
+
+  {
+    "title": "Douchebag Programmers - Our Image?",
+    "speaker": "Michał Janiszewski",
+    "videoURL": "https://vimeo.com/album/3080670/video/110720983"
+  },
+
+  {
+    "title": "Let It Flow - Introduction to Functional Reactive Programming",
+    "speaker": "Artur Skowroński",
+    "videoURL": "https://vimeo.com/album/3080670/video/110012278"
+  },
+
+  {
+    "title": "Get Practical with Web Components",
+    "speaker": "Marcin Warpechowski",
+    "videoURL": "https://vimeo.com/album/3080670/video/110008450"
+  },
+
+  {
+    "title": "Mobile HTML5 Game Development: design for performance",
+    "speaker": "Łukasz Wójciak",
+    "videoURL": "https://vimeo.com/album/3080670/video/109961599"
+  },
+
+  {
+    "title": "Playing around with the Gamepad API",
+    "speaker": "Andrzej Mazur",
+    "videoURL": "https://vimeo.com/album/3080670/video/109957722"
+  }
+]
