@@ -2,252 +2,441 @@
   {
     "title": "How not to reinvent the wheel (Game dev)",
     "speaker": "Michał Budzyński",
+    "year": "2012",
+    "photo": "http://summit.meetjs.pl/2012/img/avatar/prelegent-4.png",
+    "twitterURL": "michalbe",
+    "siteURL": "http://michalbe.blogspot.com/",
     "videoURL": "https://www.youtube.com/watch?v=IOAR_DLR5C4&list=PLB422C495A0971BEE&index=3"
   },
 
   {
     "title": "CSS4 - the future of CSS",
     "speaker": "Andrzej Mazur",
+    "year": "2012",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/da6a91b6.andrzej-mazur.jpg",
+    "twitterURL": "end3r",
+    "siteURL": "http://blog.end3r.com/",
     "videoURL": "https://www.youtube.com/watch?v=JYUkDHOP5ps&index=2&list=PLB422C495A0971BEE"
   },
 
   {
     "title": "The Web is Open. Let's keep it that way",
     "speaker": "Marek Stępień",
+    "year": "2012",
+    "photo": "http://summit.meetjs.pl/2012/img/avatar/prelegent-3.png",
+    "twitterURL": "marcoos",
+    "siteURL": "http://marcoos.com/",
     "videoURL": "https://www.youtube.com/watch?v=cPwn25dmG5M&list=PLB422C495A0971BEE&index=1"
   },
 
   {
     "title": "Make you web apps 'Go, Go' like Power rangers",
     "speaker": "Karolina Szczur",
+    "year": "2012",
+    "photo": "http://summit.meetjs.pl/2012/img/avatar/prelegent-5.png",
+    "twitterURL": "karolinaszczur",
+    "siteURL": "http://dribbble.com/karolinaszczur",
     "videoURL": "https://www.youtube.com/watch?v=I80BLhj3-cE&list=PLB422C495A0971BEE&index=4"
   },
 
   {
     "title": "Game design patterns",
     "speaker": "Kamil Trebunia",
+    "year": "2012",
+    "photo": "http://summit.meetjs.pl/2012/img/avatar/kamilTrebunia.jpg",
+    "twitterURL": "KamilTrebunia",
+    "siteURL": "",
     "videoURL": "https://www.youtube.com/watch?v=mzK5FRJn3A0&list=PLB422C495A0971BEE&index=5"
   },
 
   {
     "title": "Team building and development practices",
     "speaker": "Lukas Nowacki",
+    "year": "2012",
+    "photo": "http://summit.meetjs.pl/2012/img/avatar/lukas.jpg",
+    "twitterURL": "lucjanszajski",
+    "siteURL": "",
     "videoURL": "https://www.youtube.com/watch?v=tQ2SBIOJtHY&index=6&list=PLB422C495A0971BEE"
   },
 
   {
     "title": "Hello, Dart! - a brief introduction to Dart",
     "speaker": "Rafał Kukawski",
+    "year": "2012",
+    "photo": "http://summit.meetjs.pl/2012/img/avatar/kukawski.jpg",
+    "twitterURL": "rafaelk",
+    "siteURL": "http://kukawski.pl/",
     "videoURL": "https://www.youtube.com/watch?v=YHKPbhqHMyY&index=7&list=PLB422C495A0971BEE"
   },
 
   {
     "title": "Avoiding JavaScript Pitfalls Through Tree Hugging",
     "speaker": "Zef Hemel",
+    "year": "2012",
+    "photo": "http://summit.meetjs.pl/2012/img/avatar/zef.jpg",
+    "twitterURL": "zef",
+    "siteURL": "http://c9.io/",
     "videoURL": "https://www.youtube.com/watch?v=wY3Ycpqa3KE&index=8&list=PLB422C495A0971BEE"
   },
 
   {
     "title": "CSS 3D Transforms",
     "speaker": "Bartek Szopka",
+    "year": "2012",
+    "photo": "http://summit.meetjs.pl/2012/img/avatar/bs.jpg",
+    "twitterURL": "bartaz",
+    "siteURL": "http://bartaz.github.com/",
     "videoURL": "https://www.youtube.com/watch?v=Fesodt_EP7c&index=9&list=PLB422C495A0971BEE"
   },
 
   {
     "title": "HTML5 multimedia - browser-native video, audio and canvas",
     "speaker": "Patrick H. Lauke",
+    "year": "2012",
+    "photo": "http://summit.meetjs.pl/2012/img/avatar/lauke.png",
+    "twitterURL": "peter_h_lauke",
+    "siteURL": "http://dev.opera.com/",
     "videoURL": "https://www.youtube.com/watch?v=X2lo_Mhfx1w&index=10&list=PLB422C495A0971BEE"
   },
 
   {
     "title": "Save your data (Local storage)",
     "speaker": "Paweł Maciejewski",
+    "year": "2012",
+    "photo": "http://summit.meetjs.pl/2012/img/avatar/maciejewski.jpg",
+    "twitterURL": "fragphace",
+    "siteURL": "",
     "videoURL": "https://www.youtube.com/watch?v=wOv_R5XyTgA&list=PLB422C495A0971BEE&index=11"
   },
 
   {
     "title": "Practical guide to unit testing",
     "speaker": "Krzysztof Szafranek",
+    "year": "2012",
+    "photo": "http://summit.meetjs.pl/2012/img/avatar/ksz.png",
+    "twitterURL": "szafranek",
+    "siteURL": "http://fragphace.pl/",
     "videoURL": "https://www.youtube.com/watch?v=ENMdou8NbYk&index=12&list=PLB422C495A0971BEE"
   },
 
   {
     "title": "Asynchronous JavaScript",
     "speaker": "Mariusz Nowak",
+    "year": "2012",
+    "photo": "http://summit.meetjs.pl/2012/img/avatar/medikoo.jpg",
+    "twitterURL": "medikoo",
+    "siteURL": "http://medikoo.com/",
     "videoURL": "https://www.youtube.com/watch?v=GuxKDuEjUn0&index=13&list=PLB422C495A0971BEE"
   },
 
   {
     "title": "Why cross-platform mobile apps shouldn't look alike",
     "speaker": "Tobiasz Glazar",
+    "year": "2012",
+    "photo": "http://summit.meetjs.pl/2012/img/avatar/glazar.jpg",
+    "twitterURL": "tglazar",
+    "siteURL": "http://about.me/glazar",
     "videoURL": "https://www.youtube.com/watch?v=oAwEhtqWHtQ&list=PLB422C495A0971BEE&index=14"
   },
 
   {
     "title": "Flatiron project",
     "speaker": "Maciej Małecki",
+    "year": "2012",
+    "photo": "http://summit.meetjs.pl/2012/img/avatar/malecki.jpg",
+    "twitterURL": "maciejmalecki",
+    "siteURL": "https://github.com/mmalecki",
     "videoURL": "https://www.youtube.com/watch?v=BFT2clM5Dis&index=15&list=PLB422C495A0971BEE"
   },
 
   {
     "title": "Write once - use twice (Back & Front)",
     "speaker":"Aleksander Dąbrowski",
+    "year": "2012",
+    "photo": "http://summit.meetjs.pl/2012/img/avatar/aleks_avatar.jpg",
+    "twitterURL": "_tjeden",
+    "siteURL": "http://rubysfera.pl/",
     "videoURL": "https://www.youtube.com/watch?v=ie2euJlbXyA&index=16&list=PLB422C495A0971BEE"
   },
 
   {
     "title": "Backbone.js in practice",
     "speaker": "Lech Wilczyński",
+    "year": "2012",
+    "photo": "http://summit.meetjs.pl/2012/img/avatar/lechwil.jpg",
+    "twitterURL": "DoctorLex",
+    "siteURL": "http://opengrid.pl/",
     "videoURL": "https://www.youtube.com/watch?v=kwwiWO31Iw8&list=PLB422C495A0971BEE&index=17"
   },
 
   {
     "title": "The Angular Way",
     "speaker": "Marcin Wosinek",
+    "year": "2013",
+    "photo": "http://summit.meetjs.pl/2013/images/speakers/87248b75.marcin-wosinek.jpg",
+    "twitterURL": "MarcinWosinek",
+    "siteURL": "http://marcin-wosinek.github.io/blog/",
     "videoURL": "https://vimeo.com/album/2668337/video/90452262"
   },
 
   {
     "title": "Future of JavaScript: ECMAScript Harmony",
     "speaker": "Michał Gołębiowski",
+    "year": "2013",
+    "photo": "http://summit.meetjs.pl/2013/images/speakers/dfe6306b.michal-golebiowski.jpg",
+    "twitterURL": "m_gol",
+    "siteURL": "",
     "videoURL": "https://vimeo.com/album/2668337/video/89926660"
   },
 
   {
     "title": "Survival Guide - Web applications for mobile safari and iOS’s webUIView",
     "speaker": "Łukasz Wójciak",
+    "year": "2013",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/c0a3c382.lukasz-wojciak.jpg",
+    "twitterURL": "lukaszwojciak",
+    "siteURL": "",
     "videoURL": "https://vimeo.com/album/2668337/video/89923591"
   },
 
   {
     "title": "Serious JavaScript - how to use techniques known from large Java and .NET projects in JS world",
     "speaker": "Mateusz Jamiołkowski",
+    "year": "2013",
+    "photo": "http://summit.meetjs.pl/2013/images/speakers/696045a5.mateusz-jamiolkowski.jpg",
+    "twitterURL": "m4t_j",
+    "siteURL": "http://jamiolkowski.it/",
     "videoURL": "https://vimeo.com/album/2668337/video/89920781"
   },
 
   {
     "title": "Interactive web with Fabric.js",
     "speaker": "Juriy Zaytsev",
+    "year": "2013",
+    "photo": "http://summit.meetjs.pl/2013/images/speakers/94e49bdf.juriy-zaytsev.jpg",
+    "twitterURL": "kangax",
+    "siteURL": "http://perfectionkills.com/",
     "videoURL": "https://vimeo.com/album/2668337/video/89915501"
   },
 
   {
     "title": "Pushing the web to the limits",
     "speaker": "Dariusz Siedlecki",
+    "year": "2013",
+    "photo": "http://summit.meetjs.pl/2013/images/speakers/da0594bd.dariusz-siedlecki.jpg",
+    "twitterURL": "datrio",
+    "siteURL": "http://dariuszsiedlecki.com/",
     "videoURL": "https://vimeo.com/album/2668337/video/89911301"
   },
 
   {
     "title": "Abusing Firefox OS and HTML5 games for fun and profit",
     "speaker": "Andrzej Mazur",
+    "year": "2013",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/da6a91b6.andrzej-mazur.jpg",
+    "twitterURL": "end3r",
+    "siteURL": "http://dev.end3r.com/",
     "videoURL": "https://vimeo.com/album/2668337/video/89906705"
   },
 
   {
     "title": "Create your perfect architecture with modular JavaScript patterns",
     "speaker": "Kasper Warguła",
+    "year": "2013",
+    "photo": "http://summit.meetjs.pl/2013/images/speakers/267b7a3e.kasper-wargula.jpg",
+    "twitterURL": "KasperWargula",
+    "siteURL": "http://wargu.la/",
     "videoURL": "https://vimeo.com/album/2668337/video/89904340"
   },
 
   {
     "title": "One day in the life of a front-end programmer",
     "speaker": "Damian Wielgosik",
+    "year": "2013",
+    "photo": "http://summit.meetjs.pl/2013/images/speakers/9a217f25.damian-wielgosik.jpg",
+    "twitterURL": "varjs",
+    "siteURL": "http://functionite.com/",
     "videoURL": "https://vimeo.com/album/2668337/video/83298789"
   },
 
   {
     "title": "AngularJS - Lessons Learned",
     "speaker": "Karol Fabjańczuk",
+    "year": "2014",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/0f43aed3.karol-fabjanczuk.jpg",
+    "twitterURL": "nightmaaan",
+    "siteURL": "",
     "videoURL": "https://vimeo.com/album/3080670/video/114224016"
   },
 
   {
     "title": "Let’s talk about front-end performance",
     "speaker": "Jan Dudek",
+    "year": "2014",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/a520a871.jan-dudek.jpg",
+    "twitterURL": "_janek",
+    "siteURL": "https://github.com/jdudek",
     "videoURL": "https://vimeo.com/album/3080670/video/114222532"
   },
 
   {
     "title": "Be inspired. My story of becoming an indie game developer",
     "speaker": "Krzysztof Jankowski",
+    "year": "2014",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/2e81e38f.krzysztof-jankowski.jpg",
+    "twitterURL": "w84death",
+    "siteURL": "",
     "videoURL": "https://vimeo.com/album/3080670/video/113696913"
   },
 
   {
     "title": "Boilerplate-B-Gone - do it yourself syntactic sugar with sweet.js",
     "speaker": "Adam Pohorecki",
+    "year": "2014",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/a9c725f1.adam-pohorecki.jpg",
+    "twitterURL": "apohorecki",
+    "siteURL": "http://adam.pohorecki.pl/",
     "videoURL": "https://vimeo.com/album/3080670/video/113694100"
   },
 
   {
     "title": "Effective SVG icons management system",
     "speaker": "Kamil Koterba",
+    "year": "2014",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/15ea6fdb.kamil-koterba.jpg",
+    "twitterURL": "",
+    "siteURL": "http://kariera.wikia.com/",
     "videoURL": "https://vimeo.com/album/3080670/video/113281142"
   },
 
   {
     "title": "Gulp, as a better Grunt? Automate your frontend development workflow fully!",
     "speaker": "Jacek Tomaszewski",
+    "year": "2014",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/dae9bf29.jacek-tomaszewski.jpg",
+    "twitterURL": "jtompl",
+    "siteURL": "http://jtom.me/",
     "videoURL": "https://vimeo.com/album/3080670/video/113278072"
   },
 
   {
     "title": "Ampersand.js – Minimalistic approach to not so minimalistic problems",
     "speaker": "Kamil Ogórek",
+    "year": "2014",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/f9af81cd.kamil-ogorek.jpg",
+    "twitterURL": "kamilogorek",
+    "siteURL": "http://kamilogorek.pl/",
     "videoURL": "https://vimeo.com/album/3080670/video/112621459"
   },
 
   {
     "title": "Clientside localization in Firefox OS",
     "speaker": "Staś Małolepszy",
+    "year": "2014",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/99db6d76.stas-malolepszy.jpg",
+    "twitterURL": "stas",
+    "siteURL": "http://informationisart.com/",
     "videoURL": "https://vimeo.com/album/3080670/video/112620422"
   },
 
   {
     "title": "WebRTC - so much more than just video conferencing",
     "speaker": "Szymon Nowak",
+    "year": "2014",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/22982124.szymon-nowak.jpg",
+    "twitterURL": "szimek",
+    "siteURL": "https://cowbell-labs.com/",
     "videoURL": "https://vimeo.com/album/3080670/video/111287617"
   },
 
   {
     "title": "Working with single-threaded event loop",
     "speaker": "Maciej Winnicki",
+    "year": "2014",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/5e208cea.maciej-winnicki.jpg",
+    "twitterURL": "mthenw",
+    "siteURL": "",
     "videoURL": "https://vimeo.com/album/3080670/video/111284724"
   },
 
   {
     "title": "OOP is dead",
     "speaker": "Damian Sosnowski",
+    "year": "2014",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/5cb1fec9.damian-sosnowski.jpg",
+    "twitterURL": "sosnowsd",
+    "siteURL": "",
     "videoURL": "https://vimeo.com/album/3080670/video/110722635"
   },
 
   {
     "title": "Douchebag Programmers - Our Image?",
     "speaker": "Michał Janiszewski",
+    "year": "2014",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/c2d67064.michal-janiszewski.jpg",
+    "twitterURL": "",
+    "siteURL": "http://mjaniszew.pl/",
     "videoURL": "https://vimeo.com/album/3080670/video/110720983"
   },
 
   {
     "title": "Let It Flow - Introduction to Functional Reactive Programming",
     "speaker": "Artur Skowroński",
+    "year": "2014",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/452c1748.artur-skowronski.jpg",
+    "twitterURL": "ArturSkowronski",
+    "siteURL": "http://arturskowronski.com/",
     "videoURL": "https://vimeo.com/album/3080670/video/110012278"
   },
 
   {
     "title": "Get Practical with Web Components",
     "speaker": "Marcin Warpechowski",
+    "year": "2014",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/e4213c67.marcin-warpechowski.jpg",
+    "twitterURL": "warpech",
+    "siteURL": "http://nextgen.pl/",
     "videoURL": "https://vimeo.com/album/3080670/video/110008450"
   },
 
   {
     "title": "Mobile HTML5 Game Development: design for performance",
     "speaker": "Łukasz Wójciak",
+    "year": "2014",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/c0a3c382.lukasz-wojciak.jpg",
+    "twitterURL": "lukaszwojciak",
+    "siteURL": "http://thelittlehog.com/",
     "videoURL": "https://vimeo.com/album/3080670/video/109961599"
   },
 
   {
     "title": "Playing around with the Gamepad API",
     "speaker": "Andrzej Mazur",
+    "year": "2014",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/da6a91b6.andrzej-mazur.jpg",
+    "twitterURL": "end3r",
+    "siteURL": "http://end3r.com/",
     "videoURL": "https://vimeo.com/album/3080670/video/109957722"
+  },
+
+  {
+    "title": "Breaking the Web",
+    "speaker": "Johannes Ippen",
+    "year": "2014",
+    "photo": "http://summit.meetjs.pl/2014/images/speakers/80add766.johannes-ippen.jpg",
+    "twitterURL": "presskind",
+    "siteURL": "http://johannesippen.com/",
+    "videoURL": ""
+  },
+
+  {
+    "title": "Native performance in interactive JS applications using CSS3 hardware acceleration",
+    "speaker": "Håkon Eide",
+    "year": "2013",
+    "photo": "http://summit.meetjs.pl/2013/images/speakers/18d93dac.hakon-eide.jpg",
+    "twitterURL": "",
+    "siteURL": "http://swipe.to/",
+    "videoURL": "https://vimeo.com/album/2668337/video/83895864"
   }
+
 ]
