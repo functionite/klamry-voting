@@ -420,16 +420,6 @@
   },
 
   {
-    "title": "Breaking the Web",
-    "speaker": "Johannes Ippen",
-    "year": "2014",
-    "photo": "http://summit.meetjs.pl/2014/images/speakers/80add766.johannes-ippen.jpg",
-    "twitterHandle": "presskind",
-    "site": "http://johannesippen.com/",
-    "video": ""
-  },
-
-  {
     "title": "Native performance in interactive JS applications using CSS3 hardware acceleration",
     "speaker": "Håkon Eide",
     "year": "2013",
